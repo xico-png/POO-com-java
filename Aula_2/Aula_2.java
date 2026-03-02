@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Aula_2{
@@ -19,7 +18,7 @@ public class Aula_2{
               else System.out.println("Reprovado");
            
 
-        
+            scanner.close();
         }
 
     
