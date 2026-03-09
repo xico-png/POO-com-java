@@ -7,7 +7,7 @@ public class Zumbie {
 
 
     public void setName(String name) {
-        name = this.name;
+         this.name = name;
     }
 
     public String getName(){
@@ -16,7 +16,7 @@ public class Zumbie {
 
 
      public void setLife(double life) {
-        life = this.life;
+        this.life = life;
     }
 
     public double getLife(){
